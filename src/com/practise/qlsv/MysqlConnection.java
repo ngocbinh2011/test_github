@@ -23,6 +23,7 @@ public class MysqlConnection implements IConnection {
         } catch (SQLException e) {
             e.printStackTrace();
         }
+        System.out.println("i can do it");
         return null;
     }
 
