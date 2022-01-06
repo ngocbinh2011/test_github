@@ -24,6 +24,8 @@ public class MysqlConnection implements IConnection {
             e.printStackTrace();
         }
         // bla bla bla
+        // bla bla bla 
+        // bla bla
         return null;
     }
 
