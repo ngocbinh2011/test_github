@@ -12,7 +12,7 @@ public class Main {
 
         Scanner scanner = new Scanner(System.in);
         StudentDAO studentDAO = new StudentDAO();
-
+        //dsadasd
         while(true){
             System.out.println("\n----------------MENU---------------");
             System.out.println("1.Nhap vao danh sach sinh vien");
